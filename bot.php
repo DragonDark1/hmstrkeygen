@@ -1,17 +1,7 @@
 <?php
 
 // ================== تنظیمات ==================
-$BOT_TOKEN = '8233049792:AAGCerg21EPvY_9uYPs6aL9yDxdytoMdnqc';
-$ADMIN_ID = 766215748; // مثلاً 123456789
 
-$FTP_CONFIG = [
-    'host' => '3255155726.cloudydl.com',
-    'user' => 'pz23819',
-    'pass' => 'y8NUYWBx',
-    'path' => '/public_html/files/'
-];
-
-$DOMAIN = '3255155726.cloudydl.com/files/';
 // ==============================================
 
 // دریافت آپدیت از تلگرام
